@@ -34,6 +34,6 @@ Bibliotecas
 > 
 
 ## Autores:
-
-> Silvia Carvalho
+> Silvia Carvalho /
+> 
 > Mentoria: Beatriz Cristina
