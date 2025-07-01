@@ -9,19 +9,18 @@ CONTROLES DE EMPRESAS E PRESTADORES DE SERVIÇOS QUE VISITAM O HOSPITAL (NÃO PA
 Solução proposta: Criar um sistema que permita o cadastro desses prestadores,
 garantindo a segurança e controle de acessos.
 
-Informações importantes: Nome Prestador, e-mail, telefone, atividades agendada e Setor resposável pelo serviço.
+Informações importantes: Nome Prestador, e-mail, telefone, Atividade agendada e Setor resposável pelo serviço.
 
 # 🔌Como fazer funcionar na sua máquina:
 
-- 
+- Instalar o Python na maquina
 
 
 # 📋Pré-requisitos do sistema:
 
-- Instale Python 3.13 na sua máquina;
+- Versão atual do Python 3.13 na sua máquina;
 
-- 
-
+  
 ## 🛠️Tecnologias utilizadas:
 
 > Editor de código
@@ -36,5 +35,5 @@ Bibliotecas
 
 ## Autores:
 
-> Exemplo
->
+> Silvia Carvalho
+> Mentoria: Beatriz Cristina
