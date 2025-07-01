@@ -24,8 +24,8 @@ Informações importantes: Nome Prestador, e-mail, telefone, Atividade agendada 
 ## 🛠️Tecnologias utilizadas:
 
 > Editor de código
-Linguagens
-Bibliotecas
+  Linguagens
+  Bibliotecas
 > 
 
 ## Versões:
@@ -34,6 +34,6 @@ Bibliotecas
 > 
 
 ## Autores:
-> Silvia Carvalho /
+> Silvia Carvalho 
 > 
 > Mentoria: Beatriz Cristina
