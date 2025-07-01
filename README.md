@@ -23,10 +23,9 @@ Informações importantes: Nome Prestador, e-mail, telefone, Atividade agendada 
   
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código Visual Studio Code /
-  Linguagens / 
-  Bibliotecas
-> 
+> Editor de código Visual Studio Code,
+> Linguagens,
+> Bibliotecas.
 
 ## Versões:
 
